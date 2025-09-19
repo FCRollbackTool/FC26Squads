@@ -1,0 +1,909 @@
+{
+    "SquadFilePath": "result/pc64/Squads/786/Squads20250910000000",
+    "DatabaseCount": 1,
+    "Databases": [
+        {
+            "DbName": "fifa_ng_db_1",
+            "DbPath": "result/pc64/Squads/786/fifa_ng_db_1.db",
+            "TableCount": 83,
+            "TablesPath": "result/pc64/Squads/786/fifa_ng_db_1.db_Tables",
+            "Tables": [
+                {
+                    "Name": "fixtures",
+                    "ShortName": "Vmkr",
+                    "SaveGroups": "squads,fixtures",
+                    "RecordSize": 28,
+                    "TotalRecords": 1200,
+                    "WrittenRecords": 322,
+                    "DefaultRecord": "0,1,1,0,1,0,0,0,0,0,0,0,0,0,1",
+                    "ColumnReadOrder": "KbVA,qKND,xpDJ,BRbJ,LhXN,ULNP,fwCQ,LpOR,uOWf,pdNg,avJq,entq,zeru,cVVx,TSDz"
+                },
+                {
+                    "Name": "default_mentalities",
+                    "ShortName": "ONtg",
+                    "SaveGroups": "squads",
+                    "RecordSize": 232,
+                    "TotalRecords": 5000,
+                    "WrittenRecords": 3995,
+                    "DefaultRecord": "0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,,-1,-1,-1,1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,-1",
+                    "ColumnReadOrder": "ZBMA,KAOA,RnDB,zNhB,MVLC,FJbC,FuLD,jIiE,pFxE,MZIF,nXaF,mytG,zWHI,ksMI,OhyJ,CCIK,TMpL,vJyM,gWJN,ClfN,RaOP,mIWR,wjrR,wKsR,VhxR,CeOS,DahS,cLmS,PJwT,WCfU,dxGV,itIV,qaaV,SfCW,TzCW,BBlW,fdNX,jMjY,XjPa,MhRc,kFjd,uBQf,Povf,mCXg,nNch,usnj,mdLk,Ncmk,Eozk,DRSl,yMyn,aCho,Iwmo,lCgp,cGsr,nFPu,AwZu,qhEx,NPOx,ZzVx,sPtx,fvcy,CEZz"
+                },
+                {
+                    "Name": "dc_skins",
+                    "ShortName": "LXlu",
+                    "SaveGroups": "squads",
+                    "RecordSize": 72,
+                    "TotalRecords": 500,
+                    "WrittenRecords": 10,
+                    "DefaultRecord": "0,0,0,0,0,0,0,100000,0,0,0,0,0,0,0,0,0,0,0,0,100000,0,0,0,0,0,0,0,0,0,0,100000,0,100000,0,0,0,0,0,0,0,0,0,100000,100000,0,0,0,0,0,0,0,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100000,0",
+                    "ColumnReadOrder": "MAwA,NQKB,JtBC,inED,qCMD,MJPD,bWcD,hjYE,XUJF,FgEG,EXFH,gLVI,OteI,dahI,hzyI,dsIJ,HJMJ,oVgJ,QZhK,HbAN,kcNN,zIFO,yhRO,xnlO,HixO,yeEP,eRAQ,joMQ,SmRQ,KbUQ,TKfR,eoIS,vaRU,fhhU,MuEV,pJIV,gqDW,xmaW,IKIX,FcJX,wBlX,UgwX,JeAZ,Aada,lVQb,TBUb,PdEe,gjIe,hSwe,SkBg,UpBg,iGGh,aWgh,lWji,Gdkj,juBl,WfZl,MeIo,qdTo,fpTo,QvXo,ZTFp,ZZVp,xNCr,qSFr,PAHu,Dvsu,yTGv,CQpv,cUzx,ywuy,vfJz,jPjz"
+                },
+                {
+                    "Name": "cz_teamkits",
+                    "ShortName": "GiKo",
+                    "SaveGroups": "squads",
+                    "RecordSize": 72,
+                    "TotalRecords": 240,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": "0.0,0.0,0.0,-2147483648,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                    "ColumnReadOrder": "LZNA,CTaB,GfsB,heAC,pPBD,MmPD,vZdD,GGyD,UKpE,zGuG,pNfH,oDLJ,snbL,etuM,iNiN,fwDP,yeEP,jZYR,TEgR,bieS,xEoV,btuW,IkRY,NabY,vMtY,BYbZ,MSIa,viwa,xRFc,THdc,eqId,MzSd,JMld,ifTf,mCXg,IvYh,RxKi,kFbi,OhMm,dOSm,OStn,oRLo,tvQp,dZap,QBiq,Cswq,Vyfr,IyHs,IPRt,Uggt,Duzw,Xgqx"
+                },
+                {
+                    "Name": "player_grudgelove",
+                    "ShortName": "DFeB",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 1000,
+                    "WrittenRecords": 206,
+                    "DefaultRecord": "0,0,1",
+                    "ColumnReadOrder": "jqVD,ykFq,EhVu"
+                },
+                {
+                    "Name": "dc_fat",
+                    "ShortName": "zFhW",
+                    "SaveGroups": "squads",
+                    "RecordSize": 188,
+                    "TotalRecords": 500,
+                    "WrittenRecords": 10,
+                    "DefaultRecord": "-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,0",
+                    "ColumnReadOrder": "GMMA,UcXA,LkgA,mvpA,NKqA,oACB,ZpjB,DMwB,OmIC,ptJC,grKC,PPkC,xcrC,kCND,arOD,rFZD,OIZD,rUhE,VuuE,HcDF,CaOF,jmaF,idFG,EIQG,XwcG,kSoG,lPpG,zxLH,IJTH,MOcH,NdnH,OcoH,rKzH,jnBI,CSiI,ommI,LlpI,vLgJ,BiuJ,PByJ,cKFK,XLdK,xkvK,UCwK,fzzK,RoKL,xwPL,aOSL,AcIM,kQJM,McPM,ARTM,ealM,dwNN,MHSN,BxbN,IhmO,YynO,ZLtO,YxCP,yeEP,oaOP,LFlP,QRzP,WIBQ,vuFQ,dbIQ,PvKQ,mQPQ,hmvQ,sGRR,ebUR,vBfR,bNwR,HKNS,ysbS,FDgS,nSAT,zwET,gaGT,RMbT,dKhT,pdtT,aGIU,CtPU,GUaU,GoqU,RoQV,kfrV,JNsV,KotV,XuyV,wVNW,DnWW,HorW,QsMX,iSvX,wEIY,cLdY,OqGZ,CsNZ,UNUZ,pFhZ,dNFa,gLRa,Sjea,Gqga,FEva,kWKb,Nhdb,cqNc,NgPc,aIhc,tvsc,Qtvc,hREd,rpTd,wUVd,zcUe,AJXe,xvee,Fuge,cPmf,mdXh,grph,VXOi,BhQi,eeBj,WxYj,Wiaj,sIsj,PDAk,fkHk,APyk,ffCl,PYTl,ILnl,vrFm,WbGm,GhGm,PhHm,Hwjm,Utkm,nDIo,EGdo,akro,jmto,mZvo,NrEp,tZjp,zRlp,xflp,zupp,ulYq,zNdq,Vnmq,EoDr,oNIr,CGMr,zjkr,Sggs,xets,BLUt,kTwt,Tuxt,raCu,vwEu,acju,MaZv,WXav,grav,PJiv,Rfgw,SfDx,ztEx,IERx,baRx,dCax,Vaax,EBYy,hmxy,fzyy,BgIz,GGUz,qUjz"
+                },
+                {
+                    "Name": "gp_ucc",
+                    "ShortName": "xgkO",
+                    "SaveGroups": "squads",
+                    "RecordSize": 12,
+                    "TotalRecords": 26,
+                    "WrittenRecords": 26,
+                    "DefaultRecord": null,
+                    "ColumnReadOrder": "eQzB,cveS,uvPU,ykFq"
+                },
+                {
+                    "Name": "dynamicimages",
+                    "ShortName": "ubBA",
+                    "SaveGroups": "squads",
+                    "RecordSize": 44,
+                    "TotalRecords": 2000,
+                    "WrittenRecords": 1276,
+                    "DefaultRecord": ",,0",
+                    "ColumnReadOrder": "LUfT,vIys,zlDt"
+                },
+                {
+                    "Name": "cp_flesh",
+                    "ShortName": "qsGz",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 236,
+                    "TotalRecords": 200,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": "-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,0",
+                    "ColumnReadOrder": "KpEA,jdGA,QeOA,gGRA,GySA,tMxA,RbxA,RqHB,eOIB,mveB,VRzB,FVkC,MJsC,qkLD,PWbD,GKnD,XTDE,IDgE,RvkE,mQjF,tdyF,maHG,YRVG,srNH,lkRH,oHVH,SXWH,JnqH,JNtH,MgvH,hdwH,OlEI,TyOI,DXBJ,QoJJ,QNVJ,FrmJ,LpLK,rIgK,IKvK,HNgL,cJAM,yeAM,VKJM,AsnM,GZWN,TvgN,uMlN,NepN,gLEO,owHO,nZgO,JPyO,pIzO,yeEP,rATP,ejVP,NZKQ,KpPQ,lTWQ,aofQ,otgQ,TLhQ,VLoQ,HBHR,YMaR,ObgR,DMkR,KtmR,ObnR,gVOS,UmXS,kYbS,rKlS,FJrS,pKxS,qxzS,DAET,spIT,JqgT,jOhT,ctoT,FKwT,JELU,PsdU,miuU,YuCV,VEYV,CHcV,TriV,PmBW,FbTW,AtxW,lxDX,TPOX,yVwX,ylwX,JoCY,YrZY,VshY,cHlY,VCwY,grDZ,NFVZ,GHoZ,tMwZ,oYIa,OUKa,WgVa,Fyqa,ttra,lura,OZya,yyya,OEFb,QgLb,oxbb,YJob,Juzb,KcHc,vRPc,uZTc,SuTc,Hlfc,UGhc,Ojxc,HUyc,fokd,VzGe,rgJe,JzKe,qXTe,edce,QqCf,obKf,wIMf,jHWf,xMYf,dBkf,sdEg,SSKg,kZsg,qNwg,YWth,TIIi,OrXi,Lgai,Txci,mugi,oKpi,dsqi,OnJj,bJaj,Wmej,wQsj,Onuj,sQKk,djPk,kcYk,kAhk,Bzpk,sdvk,qBFl,DeMl,lSQl,ggdl,fHil,ZGyl,TJPm,rtPm,EOTm,bCsm,obFn,gygn,Rlin,dxpn,Ntwn,wELo,CMSo,zHro,gWWp,tHap,tTlp,sMsp,Obxp,tzLq,PXdq,Qegq,WJlq,Utmq,XrGr,WAPr,Lbbr,TSfr,Mapr,UIqr,lpHs,geKs,xvSs,NiUs,lwis,SBls,Yvus,uTxs,kaxs,vdHt,eSLt,fvZt,qwht,pAnt,HGtt,wrwt,KOiu,yKku,WwCv,qULv,pOOv,EFdv,uuYw,bYuw,JBbx,tNnx,ppsx,nEtx,QHtx,GzEy,jzKy,edSy,jbWy,hCdy,RApy,pXHz,bqYz"
+                },
+                {
+                    "Name": "leagueteamlinks",
+                    "ShortName": "qdZF",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 28,
+                    "TotalRecords": 2000,
+                    "WrittenRecords": 799,
+                    "DefaultRecord": "0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-1,0,0,0,0,0",
+                    "ColumnReadOrder": "hzrF,JPKL,CLrO,cMyO,VDJP,wEjP,aQrQ,WWGU,PSlV,MDeW,BgxX,wTTa,gazb,HtAc,oxHc,JMld,QbIe,mCXg,pBOj,fNOl,txAm,BPRm,Yyym,OcBo,oQGq,MCMq,VfPr,vjer,QMes,Unns,vmpt,uruv,HjBw,Ogsy"
+                },
+                {
+                    "Name": "playerbodyrestrictions",
+                    "ShortName": "ijbM",
+                    "SaveGroups": "squads",
+                    "RecordSize": 4,
+                    "TotalRecords": 100,
+                    "WrittenRecords": 1,
+                    "DefaultRecord": "0,0",
+                    "ColumnReadOrder": "vgHd,ykFq"
+                },
+                {
+                    "Name": "mls_group_structure",
+                    "ShortName": "hCEv",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 4,
+                    "TotalRecords": 32,
+                    "WrittenRecords": 30,
+                    "DefaultRecord": "1,1",
+                    "ColumnReadOrder": "mCXg,kSLo"
+                },
+                {
+                    "Name": "agents",
+                    "ShortName": "eqXx",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 276,
+                    "TotalRecords": 49,
+                    "WrittenRecords": 29,
+                    "DefaultRecord": ",,,0,0,0,0,0,0,0,1,100000,0,130,0,0,30,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,1,0",
+                    "ColumnReadOrder": "uGEA,onGA,CkYD,aBrD,KpQF,GsxF,eyGK,OoQO,HdeP,ypBQ,tFVQ,eypU,sNZW,ykrW,lVDX,EveZ,xnfZ,GEba,aArc,rREd,qwYd,HqUh,Zufj,IIKl,HvCm,enmm,mrAn,Dlgo,pHkq,ejir,CRrt,luvt,wZAv,OFRx,xWyx,mIlz"
+                },
+                {
+                    "Name": "cp_fat",
+                    "ShortName": "dMwM",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 188,
+                    "TotalRecords": 200,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": "-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,0",
+                    "ColumnReadOrder": "GMMA,UcXA,LkgA,mvpA,NKqA,oACB,ZpjB,DMwB,OmIC,ptJC,grKC,PPkC,xcrC,kCND,arOD,rFZD,OIZD,rUhE,VuuE,HcDF,CaOF,jmaF,idFG,EIQG,XwcG,kSoG,lPpG,zxLH,IJTH,MOcH,NdnH,OcoH,rKzH,jnBI,CSiI,ommI,LlpI,vLgJ,BiuJ,PByJ,cKFK,XLdK,xkvK,UCwK,fzzK,RoKL,xwPL,aOSL,AcIM,kQJM,McPM,ARTM,ealM,dwNN,MHSN,BxbN,IhmO,YynO,ZLtO,YxCP,yeEP,oaOP,LFlP,QRzP,WIBQ,vuFQ,dbIQ,PvKQ,mQPQ,hmvQ,sGRR,ebUR,vBfR,bNwR,HKNS,ysbS,FDgS,nSAT,zwET,gaGT,RMbT,dKhT,pdtT,aGIU,CtPU,GUaU,GoqU,RoQV,kfrV,JNsV,KotV,XuyV,wVNW,DnWW,HorW,QsMX,iSvX,wEIY,cLdY,OqGZ,CsNZ,UNUZ,pFhZ,dNFa,gLRa,Sjea,Gqga,FEva,kWKb,Nhdb,cqNc,NgPc,aIhc,tvsc,Qtvc,hREd,rpTd,wUVd,zcUe,AJXe,xvee,Fuge,cPmf,mdXh,grph,VXOi,BhQi,eeBj,WxYj,Wiaj,sIsj,PDAk,fkHk,APyk,ffCl,PYTl,ILnl,vrFm,WbGm,GhGm,PhHm,Hwjm,Utkm,nDIo,EGdo,akro,jmto,mZvo,NrEp,tZjp,zRlp,xflp,zupp,ulYq,zNdq,Vnmq,EoDr,oNIr,CGMr,zjkr,Sggs,xets,BLUt,kTwt,Tuxt,raCu,vwEu,acju,MaZv,WXav,grav,PJiv,Rfgw,SfDx,ztEx,IERx,baRx,dCax,Vaax,EBYy,hmxy,fzyy,BgIz,GGUz,qUjz"
+                },
+                {
+                    "Name": "cmplayers",
+                    "ShortName": "bqIi",
+                    "SaveGroups": "squads",
+                    "RecordSize": 160,
+                    "TotalRecords": 500,
+                    "WrittenRecords": 199,
+                    "DefaultRecord": "0,0,0,0,0,1900,0,0,0,0,0,0,0,1900,0,0,1,0,1,0,0,0,1,0,0,0,1,-1,1,1,0,0,0,1,1,0,1,0,1,1,1,0,1,1,100000,1,0,1,1,1,0,-1,0,0,0,1,0,130,0,0,-1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,30,0,0,0,0,1,0,0,1,0,1,-1,0,1,0,1,0,0,0,0,0,0,0,1,1,0,1,0,-1,0,-5,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,10,0,0,1,0,0,1,0,-1,1,0,0,0",
+                    "ColumnReadOrder": "uGEA,onGA,YFaA,miIB,RRQB,HEDC,oQQC,SJED,XsFD,HfYD,CkYD,aBrD,CsyD,OblE,kerE,AGsE,jLuE,KpQF,kvuF,CsBG,xrSG,PqtG,wWzG,nbJH,wGOH,mpuH,eYFI,GFLI,YCnI,jlQJ,eyGK,ZoOK,qvmK,hGZL,xJZL,nEbM,PhuM,ycJN,rkcN,kmkN,OoQO,tHlO,zNYP,NrcP,KCeP,pZgP,ypBQ,HSMQ,iCDR,BhwR,NgVS,nmgT,lJtT,tgwT,WVIU,wZQU,CVWU,eypU,MgwU,hdMV,kQUV,HMZV,ohpV,juxV,nVWW,sNZW,ykrW,lVDX,GReX,YjNY,OjQY,onkY,yNVZ,EveZ,GEba,kqda,QCfa,aEqa,WVsa,GdFb,EPJb,vObb,Oetb,VgKc,BAPc,qwYd,uCdd,FWgd,NBsd,VRvd,LwOe,ERce,iTce,SPge,ceRf,aReg,FYhg,Oirg,HqUh,VeVh,oXYh,isYi,GBGj,Zufj,UFvj,tKNk,acRl,gOol,vTpl,HvCm,OnPm,enmm,MDvm,mrAn,aOBn,URGo,Dlgo,hxxo,rJqp,XjDq,ykFq,cAUq,yfhq,pHkq,PJsq,inAr,NTFr,ejir,wwlr,UERs,iKqs,gNbt,Tbvt,luvt,MUYu,wZAv,lTKv,dXNv,PeUv,wIYv,Vqpv,TLbw,CSEx,OFRx,HDYx,xWyx,naby,aapy,SJKz,ZeVz,YnYz,Dydz,Bfhz,JRjz,mIlz"
+                },
+                {
+                    "Name": "dcplayernames",
+                    "ShortName": "bneD",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 40,
+                    "TotalRecords": 7500,
+                    "WrittenRecords": 1093,
+                    "DefaultRecord": ",44000",
+                    "ColumnReadOrder": "FuiB,vIys"
+                },
+                {
+                    "Name": "prevcompetitionstats",
+                    "ShortName": "amvY",
+                    "SaveGroups": "squads",
+                    "RecordSize": 16,
+                    "TotalRecords": 8000,
+                    "WrittenRecords": 4270,
+                    "DefaultRecord": "0,0,0,0,0,0,0,0,0",
+                    "ColumnReadOrder": "MERA,ezJB,LhXN,nVWT,xEsZ,Ebea,JMld,ykFq,pGKt"
+                },
+                {
+                    "Name": "cz_assets",
+                    "ShortName": "YNEf",
+                    "SaveGroups": "squads",
+                    "RecordSize": 248,
+                    "TotalRecords": 108,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": "-2147483648,-2147483648,-2147483648,0.0,-2147483648,-2147483648,-2147483648,,,0,0,0",
+                    "ColumnReadOrder": "STID,svsO,lHsX,kOha,dUxb,bdPd,NOWg,Xxmh,DbIl,IyHs,nets,ZpXz"
+                },
+                {
+                    "Name": "brandtypes",
+                    "ShortName": "VZEn",
+                    "SaveGroups": "squads",
+                    "RecordSize": 4,
+                    "TotalRecords": 100,
+                    "WrittenRecords": 12,
+                    "DefaultRecord": "0,0,0,0",
+                    "ColumnReadOrder": "HeiA,ypBQ,IaYq,ZpXz"
+                },
+                {
+                    "Name": "createplayer",
+                    "ShortName": "SPTx",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 32,
+                    "TotalRecords": 200,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": "-1,-1,0,0,0,0,0,0,0,0,0,0,-1,0,0",
+                    "ColumnReadOrder": "pXwC,KTLE,QvSL,JAOM,KTDQ,rrra,RmXd,IiYd,LKii,utbj,RzAo,UJSo,RkEp,BQPq,NTiz"
+                },
+                {
+                    "Name": "accessories",
+                    "ShortName": "RMfq",
+                    "SaveGroups": "squads",
+                    "RecordSize": 4,
+                    "TotalRecords": 416,
+                    "WrittenRecords": 166,
+                    "DefaultRecord": "0,0,0",
+                    "ColumnReadOrder": "AsxF,KYeV,yPLv"
+                },
+                {
+                    "Name": "teamplayerlinks",
+                    "ShortName": "RrqT",
+                    "SaveGroups": "cmsquads,squads,onlsquads",
+                    "RecordSize": 16,
+                    "TotalRecords": 27000,
+                    "WrittenRecords": 21601,
+                    "DefaultRecord": "0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0",
+                    "ColumnReadOrder": "SuuG,jtWI,pchV,UMDX,JFiY,vjla,JMld,mCXg,NbFh,Vili,stFk,YbEm,dGNm,ykFq,rLZx,jIcz"
+                },
+                {
+                    "Name": "outfithairlinks",
+                    "ShortName": "QqjW",
+                    "SaveGroups": "squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 248,
+                    "WrittenRecords": 103,
+                    "DefaultRecord": "0,0",
+                    "ColumnReadOrder": "CkYD,CRrt"
+                },
+                {
+                    "Name": "teamkits",
+                    "ShortName": "GdtI",
+                    "SaveGroups": "squads",
+                    "RecordSize": 72,
+                    "TotalRecords": 5000,
+                    "WrittenRecords": 3745,
+                    "DefaultRecord": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                    "ColumnReadOrder": "LZNA,hEvA,MlXB,zdlB,MbYC,myaC,DNJD,jUaD,MbnD,qaaE,gsuF,GCoH,bXAI,NhCK,JtVK,MHXK,XvaL,TPaN,iNiN,XAnO,bLBP,wsGP,QcIQ,uAKR,TEgR,bieS,DPYU,KRfU,eCpU,SwCX,fpEX,bULY,IkRY,vMtY,dSvZ,MSIa,lROa,BKca,Rjqb,neKc,NTld,qFnd,CPDe,ZZGe,iZRe,mDwe,UgGf,qljg,nokh,lAgk,ZqLl,OIbl,CUKn,OvKn,yrUn,MQyn,zJKo,tvQp,Qhfp,pqlp,aNtq,Vyfr,wwlr,JZus,Jjet,Uggt,lTKv,jpFw,KFtw,lHax,zyzx,wGly"
+                },
+                {
+                    "Name": "dc_flesh",
+                    "ShortName": "GPlh",
+                    "SaveGroups": "squads",
+                    "RecordSize": 236,
+                    "TotalRecords": 500,
+                    "WrittenRecords": 10,
+                    "DefaultRecord": "-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,0",
+                    "ColumnReadOrder": "KpEA,jdGA,QeOA,gGRA,GySA,tMxA,RbxA,RqHB,eOIB,mveB,VRzB,FVkC,MJsC,qkLD,PWbD,GKnD,XTDE,IDgE,RvkE,mQjF,tdyF,maHG,YRVG,srNH,lkRH,oHVH,SXWH,JnqH,JNtH,MgvH,hdwH,OlEI,TyOI,DXBJ,QoJJ,QNVJ,FrmJ,LpLK,rIgK,IKvK,HNgL,cJAM,yeAM,VKJM,AsnM,GZWN,TvgN,uMlN,NepN,gLEO,owHO,nZgO,JPyO,pIzO,yeEP,rATP,ejVP,NZKQ,KpPQ,lTWQ,aofQ,otgQ,TLhQ,VLoQ,HBHR,YMaR,ObgR,DMkR,KtmR,ObnR,gVOS,UmXS,kYbS,rKlS,FJrS,pKxS,qxzS,DAET,spIT,JqgT,jOhT,ctoT,FKwT,JELU,PsdU,miuU,YuCV,VEYV,CHcV,TriV,PmBW,FbTW,AtxW,lxDX,TPOX,yVwX,ylwX,JoCY,YrZY,VshY,cHlY,VCwY,grDZ,NFVZ,GHoZ,tMwZ,oYIa,OUKa,WgVa,Fyqa,ttra,lura,OZya,yyya,OEFb,QgLb,oxbb,YJob,Juzb,KcHc,vRPc,uZTc,SuTc,Hlfc,UGhc,Ojxc,HUyc,fokd,VzGe,rgJe,JzKe,qXTe,edce,QqCf,obKf,wIMf,jHWf,xMYf,dBkf,sdEg,SSKg,kZsg,qNwg,YWth,TIIi,OrXi,Lgai,Txci,mugi,oKpi,dsqi,OnJj,bJaj,Wmej,wQsj,Onuj,sQKk,djPk,kcYk,kAhk,Bzpk,sdvk,qBFl,DeMl,lSQl,ggdl,fHil,ZGyl,TJPm,rtPm,EOTm,bCsm,obFn,gygn,Rlin,dxpn,Ntwn,wELo,CMSo,zHro,gWWp,tHap,tTlp,sMsp,Obxp,tzLq,PXdq,Qegq,WJlq,Utmq,XrGr,WAPr,Lbbr,TSfr,Mapr,UIqr,lpHs,geKs,xvSs,NiUs,lwis,SBls,Yvus,uTxs,kaxs,vdHt,eSLt,fvZt,qwht,pAnt,HGtt,wrwt,KOiu,yKku,WwCv,qULv,pOOv,EFdv,uuYw,bYuw,JBbx,tNnx,ppsx,nEtx,QHtx,GzEy,jzKy,edSy,jbWy,hCdy,RApy,pXHz,bqYz"
+                },
+                {
+                    "Name": "default_teamsheets",
+                    "ShortName": "AGmV",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 160,
+                    "TotalRecords": 2000,
+                    "WrittenRecords": 799,
+                    "DefaultRecord": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                    "ColumnReadOrder": "EZGA,MVLC,FJbC,bveC,VgjC,TxVD,cnUF,jMiF,zWHI,SAKJ,HQyJ,OhyJ,hozK,NDOL,BwJM,VNUO,HYBP,RaOP,ohUP,GjzQ,wjrR,DkET,WCfU,xckU,CtBV,WiRV,UTxV,SfCW,fBiX,ILuX,aNgZ,SfAa,AFka,Juxb,gxCc,PmFc,sdHe,xcde,EyUf,Povf,fyAg,uOEg,aoQg,mCXg,fySi,iVHj,ZaUj,cTCk,Ncmk,FVzk,deBn,WLKn,xODp,FCTp,bxkp,MlJq,cHyr,mdlt,LaCu,hPku,WJDv,LfBw,bXPw,yrvw,qhEx,KrFy,ocLy"
+                },
+                {
+                    "Name": "playersuspensions",
+                    "ShortName": "ySyc",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 12,
+                    "TotalRecords": 100,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": "0,0,0,1,0",
+                    "ColumnReadOrder": "ZPUX,YHEa,JMld,mCXg,ykFq"
+                },
+                {
+                    "Name": "playerbootremapping",
+                    "ShortName": "yYtg",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 4,
+                    "TotalRecords": 100,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": "0,0",
+                    "ColumnReadOrder": "JRYK,tgwT"
+                },
+                {
+                    "Name": "cz_leagues",
+                    "ShortName": "yAGl",
+                    "SaveGroups": "squads",
+                    "RecordSize": 164,
+                    "TotalRecords": 5,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,-1,0,1,0,0,0,0,0",
+                    "ColumnReadOrder": "CgfB,zoID,kXOE,JtdE,TMoF,LGyG,hceI,pvBM,FPXN,YSYO,PYjP,aQrQ,zvvR,ipwT,oTvV,DkYX,USZX,WITa,GoKc,pFRe,mFke,FCGf,PuAi,jxri,xJpn,vDao,ghrq,Fpys,dwLt,KWav,NOnw,brqw,SiSz"
+                },
+                {
+                    "Name": "dc_skeletal",
+                    "ShortName": "uxUO",
+                    "SaveGroups": "squads",
+                    "RecordSize": 236,
+                    "TotalRecords": 500,
+                    "WrittenRecords": 10,
+                    "DefaultRecord": "-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,0,0,0",
+                    "ColumnReadOrder": "vyDA,BJNA,wsiA,aNCB,NmkB,zXsB,gwGC,dlKC,QAgC,QzjC,jJkC,eTwC,pBKD,nKiD,MUiD,IRpD,jBsD,sFHE,uzQE,OHaE,OHdE,GAeE,wHnE,EuNF,nZSF,oosF,sOWG,mLkG,zACH,VjIH,YyRH,ODBI,kIJI,mELI,FuTI,ITWI,hOYI,QzdI,gBsI,eCuI,odLJ,ISMJ,NnSJ,SEgJ,FUvJ,EUNK,gsVK,DabK,uCdK,qlnK,bhpK,EGqK,rmrK,JSGL,WbTL,elWL,eJgL,DagL,jxMM,VeTM,VcBN,OVNN,MBON,yuaN,HHlN,vRvN,rhxN,utCO,DlIO,zPOO,FpxO,yeEP,AqnP,nHCQ,LtOQ,ijTQ,WgpQ,fmyQ,oIHR,LZJS,DyKS,uFcS,lJsS,SeET,pnJT,udWT,TUbT,dZsT,YxuT,eJvT,vsMU,FvPU,etQU,HFaU,AAeU,VmqU,ETxU,AFHV,IxcV,yClV,oasV,yDKW,TlqW,SxyW,LQsX,TDvX,oVwX,HeBY,LOxY,XMzY,tzHZ,NHpZ,bAvZ,Ndaa,kwda,Uhna,Sgva,gVHb,GChb,sVnb,gApb,Wevb,Hywb,UAQc,aBDd,GdTd,qNld,oCrd,MWud,mOwd,DbHe,CQRe,BvSe,sEae,WDse,mZze,bvDf,HEPf,RiTf,JEdf,QWlf,NCpf,hNOg,nYVg,wTag,qEgg,gCDh,hRJh,rcWh,RwWh,KEQi,pasi,Byzi,LNAj,VLPj,DYbj,xcnj,xHwj,XxGk,rZJk,hsOk,USWk,mBsk,eDzk,AlDl,BEEl,rjFl,gXil,qKml,Mjpl,puFm,EHLm,owMm,GMTm,NVWm,diom,xCpm,mfzm,TfBn,gUHn,WfYn,MZgn,OFin,lCIo,ttTo,wgho,gYoo,sPso,Uvvo,NSyo,ikKp,gyhp,NAyp,WLDq,lpDq,jgAr,DANs,Iuns,jOts,kbEt,UBSt,UQnt,Rmnt,uvzt,QECu,KQKu,ToQu,fsTu,BAYu,DAbu,LvJv,lUTv,EDav,Dlgv,qyzv,jGMw,wBbw,UPgw,pjHx,wfSx,sggx,lTnx,mkEy,jePy,gzPy,svhy,KFAz,ISAz,flJz,jqNz,twOz,SrRz,DXcz"
+                },
+                {
+                    "Name": "competitionuefasponsors",
+                    "ShortName": "qmil",
+                    "SaveGroups": "squads",
+                    "RecordSize": 72,
+                    "TotalRecords": 2000,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": "0,0,,1",
+                    "ColumnReadOrder": "LhXN,mCXg,oQnh,AUsv"
+                },
+                {
+                    "Name": "leagues",
+                    "ShortName": "onMQ",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 128,
+                    "TotalRecords": 100,
+                    "WrittenRecords": 52,
+                    "DefaultRecord": "0,,0,1,0,0,1,0,0,0,0,0,0",
+                    "ColumnReadOrder": "JtdE,paPI,WDGJ,VtHL,uhiM,aQrQ,eLCT,FtgW,HEQX,ilBe,SDHe,hXTp,JGZu"
+                },
+                {
+                    "Name": "editedplayernames",
+                    "ShortName": "nQVU",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 184,
+                    "TotalRecords": 1530,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": ",,,,0",
+                    "ColumnReadOrder": "HdeP,xnfZ,kRfb,rREd,ykFq"
+                },
+                {
+                    "Name": "competitionstadiumlinks",
+                    "ShortName": "nVuT",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 800,
+                    "WrittenRecords": 749,
+                    "DefaultRecord": "0,0,0",
+                    "ColumnReadOrder": "LhXN,UgZN,fwCQ"
+                },
+                {
+                    "Name": "formations",
+                    "ShortName": "mDGw",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 164,
+                    "TotalRecords": 2000,
+                    "WrittenRecords": 828,
+                    "DefaultRecord": "0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,,1,1,0,1,1,-1,-2,1,0,-1,1,1,-1,0,1,1,1",
+                    "ColumnReadOrder": "ZBMA,RnDB,zNhB,FuLD,jIiE,pFxE,XsCF,MZIF,LGsF,mytG,ksMI,QraJ,CCIK,TMpL,vJyM,gWJN,ClfN,wKsR,VhxR,DahS,cLmS,PJwT,dxGV,itIV,qaaV,TzCW,BBlW,fdNX,jMjY,XjPa,MhRc,kFjd,Gtld,uBQf,mCXg,nNch,yYmh,oHkj,usnj,mdLk,Eozk,DRSl,eDrl,yMyn,aCho,Iwmo,lCgp,cGsr,nFPu,NPOx,ZzVx,sPtx,fvcy,CEZz"
+                },
+                {
+                    "Name": "teams",
+                    "ShortName": "lyxL",
+                    "SaveGroups": "cmsquads,squads,onlsquads",
+                    "RecordSize": 188,
+                    "TotalRecords": 2000,
+                    "WrittenRecords": 799,
+                    "DefaultRecord": "-2147483648,0,0,0,0,0,0,1800,0,0,0,0,-100,-90,0,-100,0,0,0,0,,0,0,-1,0,-1,0,0,-1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,-180,0,0,0,-1,0,0,0,0,-1,0,0,-1,0,0,0,0,0,0,0,1,-1,0,1,0,0,0,0,0,0,-1,0,0,-1,0,0,0,0,0,0,0,0,-12,-1,0,0,-1,0,0,0,0,0,0,-1,0,0,0",
+                    "ColumnReadOrder": "TdUB,MbYC,UrDD,kfND,TxVD,pqZD,ppLE,lWTE,MLlE,sitE,nXaF,VsCG,zgDG,lzGH,fSIH,kjiI,QSnJ,FcOK,BdXK,UjYK,TehK,CauK,VtHL,pNIL,PcIL,erSL,vFwL,uhiM,oEoM,SqFN,gZYN,dUTO,XpxO,sqCP,HHDP,yeEP,UAKP,KzYP,yDDQ,NQXQ,mIWR,zHfR,NOYS,PccS,btsS,eLCT,WwbT,ZKAU,WiRV,kzMW,FtgW,BZQX,fBiX,xPHY,EveZ,tFoZ,tYEa,Tsda,hJha,sqra,zqra,Tnbc,EVjc,aArc,xcde,Umue,HNrf,sjQg,mCXg,yhYg,TPvg,Olxh,Gjri,MQCj,XDPj,LOZj,Uwwk,FVzk,IIKl,gCAn,YTAn,WLKn,cwNn,WELo,cpXo,jfmo,Edjp,igKs,UERs,pxes,rags,hXEu,Csgu,hPku,PNLv,IOSv,AUsv,mgAw,LfBw,KvHw,edvw,nzJx,QgOx,WvVx,rLZx,NSMy,pbQy,Gzty,aDMz,jmRz"
+                },
+                {
+                    "Name": "teamstadiumlinks",
+                    "ShortName": "kISL",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 4,
+                    "TotalRecords": 2000,
+                    "WrittenRecords": 805,
+                    "DefaultRecord": "0,0,1,0",
+                    "ColumnReadOrder": "GdYI,fwCQ,mCXg,WMtm"
+                },
+                {
+                    "Name": "playerloans",
+                    "ShortName": "ZrAO",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 2000,
+                    "WrittenRecords": 1047,
+                    "DefaultRecord": "0,1,0,0",
+                    "ColumnReadOrder": "uQxT,GlCc,ykFq,gEHq"
+                },
+                {
+                    "Name": "cz_players",
+                    "ShortName": "YOKt",
+                    "SaveGroups": "squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 1500,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": "0,-1,0",
+                    "ColumnReadOrder": "yeEP,RkEp,ykFq"
+                },
+                {
+                    "Name": "competitionmatchups",
+                    "ShortName": "VHaB",
+                    "SaveGroups": "squads",
+                    "RecordSize": 12,
+                    "TotalRecords": 1000,
+                    "WrittenRecords": 450,
+                    "DefaultRecord": "0,1,1,0,1",
+                    "ColumnReadOrder": "KbVA,LhXN,iMGO,VXMX,entq"
+                },
+                {
+                    "Name": "teamplayerlinks_vh",
+                    "ShortName": "RnPg",
+                    "SaveGroups": "squads",
+                    "RecordSize": 16,
+                    "TotalRecords": 500,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": "0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0",
+                    "ColumnReadOrder": "SuuG,jtWI,pchV,UMDX,JFiY,vjla,JMld,mCXg,NbFh,Vili,stFk,YbEm,dGNm,ykFq,rLZx,jIcz"
+                },
+                {
+                    "Name": "competitionbadges",
+                    "ShortName": "Qxjv",
+                    "SaveGroups": "squads",
+                    "RecordSize": 12,
+                    "TotalRecords": 1000,
+                    "WrittenRecords": 252,
+                    "DefaultRecord": "0,0,0,0,1,0",
+                    "ColumnReadOrder": "AqxB,LhXN,LBdc,vvGh,hHvj,YtDs"
+                },
+                {
+                    "Name": "playersockoverride",
+                    "ShortName": "MytH",
+                    "SaveGroups": "squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 100,
+                    "WrittenRecords": 4,
+                    "DefaultRecord": "0,1,0,0,0",
+                    "ColumnReadOrder": "qFnd,mCXg,tKNk,ykFq,eRor"
+                },
+                {
+                    "Name": "teamnationlinks",
+                    "ShortName": "CxJp",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 200,
+                    "WrittenRecords": 134,
+                    "DefaultRecord": "1,1,0",
+                    "ColumnReadOrder": "aQrQ,mCXg,LEtt"
+                },
+                {
+                    "Name": "players",
+                    "ShortName": "CZUM",
+                    "SaveGroups": "cmsquads,squads,players",
+                    "RecordSize": 144,
+                    "TotalRecords": 27000,
+                    "WrittenRecords": 20453,
+                    "DefaultRecord": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,-1,1,1,0,0,0,1,1,0,1,0,1,1,1,0,1,1,100000,1,0,1,1,1,0,-1,0,0,0,1,0,130,0,0,-1,1,0,0,0,0,0,1,0,1,0,0,30,0,0,0,0,1,0,0,1,0,1,-1,1,1,0,0,0,0,0,1,1,0,1,0,-1,0,-5,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,-1,1,0,0,0",
+                    "ColumnReadOrder": "uGEA,onGA,YFaA,miIB,RRQB,HEDC,oQQC,SJED,XsFD,HfYD,CkYD,aBrD,CsyD,OblE,kerE,AGsE,jLuE,KpQF,kvuF,CsBG,xrSG,PqtG,wWzG,nbJH,wGOH,mpuH,eYFI,GFLI,YCnI,jlQJ,eyGK,ZoOK,qvmK,hGZL,xJZL,nEbM,PhuM,ycJN,rkcN,kmkN,OoQO,tHlO,zNYP,NrcP,KCeP,ypBQ,HSMQ,iCDR,BhwR,NgVS,nmgT,tgwT,WVIU,wZQU,CVWU,eypU,MgwU,hdMV,ohpV,juxV,nVWW,sNZW,ykrW,lVDX,GReX,YjNY,OjQY,onkY,yNVZ,EveZ,GEba,kqda,QCfa,aEqa,WVsa,GdFb,vObb,VgKc,BAPc,qwYd,NBsd,VRvd,LwOe,ERce,iTce,SPge,ceRf,aReg,FYhg,Oirg,HqUh,VeVh,oXYh,isYi,GBGj,Zufj,UFvj,tKNk,acRl,gOol,vTpl,HvCm,OnPm,enmm,MDvm,mrAn,aOBn,URGo,Dlgo,hxxo,rJqp,XjDq,ykFq,cAUq,yfhq,pHkq,PJsq,inAr,NTFr,ejir,wwlr,UERs,iKqs,gNbt,Tbvt,luvt,MUYu,wZAv,lTKv,dXNv,PeUv,Vqpv,CSEx,OFRx,HDYx,xWyx,naby,aapy,SJKz,ZeVz,YnYz,Dydz,Bfhz,JRjz,mIlz"
+                },
+                {
+                    "Name": "adboardlogicexceptions",
+                    "ShortName": "zIOu",
+                    "SaveGroups": "squads",
+                    "RecordSize": 20,
+                    "TotalRecords": 1073,
+                    "WrittenRecords": 88,
+                    "DefaultRecord": "0,,-1,-1,-1,0,-1,-1,0,-1,-1",
+                    "ColumnReadOrder": "qKND,sQME,LhXN,HMyc,JMld,syie,WOos,ZqGw,ulkw,ZWvy,TSDz"
+                },
+                {
+                    "Name": "smplayers",
+                    "ShortName": "vGSz",
+                    "SaveGroups": "squads",
+                    "RecordSize": 148,
+                    "TotalRecords": 1000,
+                    "WrittenRecords": 458,
+                    "DefaultRecord": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,-1,1,1,0,0,0,1,1,0,1,0,1,1,1,0,1,1,100000,1,0,1,1,1,0,-1,0,0,0,1,0,130,0,0,-1,1,0,0,0,0,0,1,0,1,0,0,30,0,0,0,0,1,0,0,1,0,1,-1,1,1,0,0,0,0,0,0,1,1,0,1,0,-1,0,-5,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,-1,1,0,0,0",
+                    "ColumnReadOrder": "uGEA,onGA,YFaA,miIB,RRQB,HEDC,oQQC,SJED,XsFD,HfYD,CkYD,aBrD,CsyD,OblE,kerE,AGsE,jLuE,KpQF,kvuF,CsBG,xrSG,PqtG,wWzG,nbJH,wGOH,mpuH,eYFI,GFLI,YCnI,jlQJ,eyGK,ZoOK,qvmK,hGZL,xJZL,nEbM,PhuM,ycJN,rkcN,kmkN,OoQO,tHlO,zNYP,NrcP,KCeP,ypBQ,HSMQ,iCDR,BhwR,NgVS,nmgT,tgwT,WVIU,wZQU,CVWU,eypU,MgwU,hdMV,ohpV,juxV,nVWW,sNZW,ykrW,lVDX,GReX,YjNY,OjQY,onkY,yNVZ,EveZ,GEba,kqda,QCfa,aEqa,WVsa,GdFb,vObb,VgKc,BAPc,qwYd,JMld,NBsd,VRvd,LwOe,ERce,iTce,SPge,ceRf,aReg,FYhg,Oirg,HqUh,VeVh,oXYh,isYi,GBGj,Zufj,UFvj,tKNk,acRl,gOol,vTpl,HvCm,OnPm,enmm,MDvm,mrAn,aOBn,URGo,Dlgo,hxxo,rJqp,XjDq,ykFq,cAUq,yfhq,pHkq,PJsq,inAr,NTFr,ejir,wwlr,UERs,iKqs,gNbt,Tbvt,luvt,MUYu,wZAv,lTKv,dXNv,PeUv,Vqpv,CSEx,OFRx,HDYx,xWyx,naby,aapy,SJKz,ZeVz,YnYz,Dydz,Bfhz,JRjz,mIlz"
+                },
+                {
+                    "Name": "cz_teams",
+                    "ShortName": "sloG",
+                    "SaveGroups": "squads",
+                    "RecordSize": 24,
+                    "TotalRecords": 60,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": "-2147483648,-2147483648,,0,-1",
+                    "ColumnReadOrder": "cCBB,SPRd,mCXg,RkEp,Rjoz"
+                },
+                {
+                    "Name": "bannerplayers",
+                    "ShortName": "nhky",
+                    "SaveGroups": "squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 1140,
+                    "WrittenRecords": 175,
+                    "DefaultRecord": "0,0,0,0,-2,-2,0",
+                    "ColumnReadOrder": "FCfB,GxAC,fZzF,BdXK,gDDc,qljg,MQrn"
+                },
+                {
+                    "Name": "referee",
+                    "ShortName": "mMQM",
+                    "SaveGroups": "squads",
+                    "RecordSize": 80,
+                    "TotalRecords": 500,
+                    "WrittenRecords": 358,
+                    "DefaultRecord": ",,0,0,0,0,0,0,0,0,0,100000,0,0,130,1,0,0,0,0,30,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0",
+                    "ColumnReadOrder": "uGEA,onGA,CkYD,aBrD,KpQF,sUgF,nbJH,eyGK,OoQO,UWSO,HdeP,ypBQ,aQrQ,tgwT,WVIU,eypU,nVWW,sNZW,lVDX,EveZ,GEba,rREd,qwYd,HqUh,Zufj,UFvj,tKNk,HvCm,mrAn,Dlgo,gDvo,pHkq,ejir,wwlr,iKqs,Lfmt,luvt,UScu,wZAv,PeUv,CSEx,OFRx,xWyx,mIlz"
+                },
+                {
+                    "Name": "playerarchetypelinks",
+                    "ShortName": "dRCR",
+                    "SaveGroups": "squads",
+                    "RecordSize": 12,
+                    "TotalRecords": 200,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": "-1,0,-1,-1,0,0,0,0",
+                    "ColumnReadOrder": "zLFI,ivRL,MIVO,NBwQ,EfQj,ykFq,GMAw,GvLz"
+                },
+                {
+                    "Name": "competitionkits",
+                    "ShortName": "brHl",
+                    "SaveGroups": "squads",
+                    "RecordSize": 40,
+                    "TotalRecords": 2000,
+                    "WrittenRecords": 950,
+                    "DefaultRecord": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                    "ColumnReadOrder": "LZNA,MlXB,zdlB,myaC,qaaE,gsuF,GCoH,bXAI,JtVK,XvaL,LhXN,TPaN,iNiN,bLBP,wsGP,uAKR,TEgR,bieS,eCpU,fpEX,vMtY,MSIa,Rjqb,NTld,qFnd,ZZGe,qljg,ZqLl,CUKn,zJKo,tvQp,Vyfr,JZus,Jjet,Uggt,jpFw,wGly"
+                },
+                {
+                    "Name": "outfitarrangements",
+                    "ShortName": "Zeam",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 68,
+                    "TotalRecords": 1500,
+                    "WrittenRecords": 783,
+                    "DefaultRecord": "-1,0,0,0,-1,-1,-1,0,0,0,0,0,-1,0,0,0,-1,0,0,0,0,0,0,-1,0,0,-1,-1,0,0,-1,0,0,-1,-1,0,0,0,-1,-1,0,0",
+                    "ColumnReadOrder": "NKtA,dtyB,FyBC,xoCC,eIDC,StTC,hzFG,zlpG,gZEI,YVHI,WKEJ,kGOK,LnDM,SJCN,HAHP,nyhP,WWNQ,DCdQ,exYT,kSvT,fiKW,EveZ,ynmZ,prnZ,JPrZ,Odje,LjOg,auOh,fzQl,Albn,PQQo,UKwp,MFLr,TIDs,BvDs,Fmvs,CRrt,uTRu,Kcfu,QnEw,gVGx,fLIz"
+                },
+                {
+                    "Name": "playerformdiff",
+                    "ShortName": "UlaA",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 50,
+                    "WrittenRecords": 50,
+                    "DefaultRecord": null,
+                    "ColumnReadOrder": "xKVG,BssH,HjSL,mCXg,ykFq"
+                },
+                {
+                    "Name": "ucc",
+                    "ShortName": "QMqB",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 12,
+                    "TotalRecords": 2000,
+                    "WrittenRecords": 964,
+                    "DefaultRecord": "0.0,0,0,0",
+                    "ColumnReadOrder": "eQzB,cveS,uvPU,ykFq"
+                },
+                {
+                    "Name": "competitionrefereekits",
+                    "ShortName": "MsTi",
+                    "SaveGroups": "squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 2000,
+                    "WrittenRecords": 132,
+                    "DefaultRecord": "0,0",
+                    "ColumnReadOrder": "aSGN,LhXN"
+                },
+                {
+                    "Name": "manager",
+                    "ShortName": "Knen",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 304,
+                    "TotalRecords": 1300,
+                    "WrittenRecords": 799,
+                    "DefaultRecord": "0.0,,,,0,0,0,0,1,0,0,0,0,100000,0,0,0,130,0,0,0,0,0,30,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0",
+                    "ColumnReadOrder": "uGEA,onGA,VHIB,oQQC,CkYD,aBrD,KpQF,eyGK,ycJN,kmkN,OoQO,HdeP,ypBQ,tFVQ,WVIU,kuMU,eypU,kzMW,sNZW,ykrW,lVDX,EveZ,xnfZ,GEba,aArc,rREd,qwYd,oyWe,mCXg,TPvg,HqUh,Zufj,zFJl,IIKl,acRl,gOol,HvCm,enmm,mrAn,Dlgo,cAUq,pHkq,ejir,CRrt,luvt,wZAv,dXNv,OFRx,xWyx,FcMy,aDMz,Bfhz,mIlz"
+                },
+                {
+                    "Name": "teamcounterparts",
+                    "ShortName": "ImNE",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 128,
+                    "TotalRecords": 100,
+                    "WrittenRecords": 55,
+                    "DefaultRecord": ",,1,1",
+                    "ColumnReadOrder": "ppxQ,QmlU,MYrf,Ibup"
+                },
+                {
+                    "Name": "brandpartners",
+                    "ShortName": "HeDf",
+                    "SaveGroups": "squads",
+                    "RecordSize": 4,
+                    "TotalRecords": 1011,
+                    "WrittenRecords": 12,
+                    "DefaultRecord": "0,0,0,0",
+                    "ColumnReadOrder": "HeiA,ypBQ,IaYq,ZpXz"
+                },
+                {
+                    "Name": "cp_skeletal",
+                    "ShortName": "Hrbq",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 236,
+                    "TotalRecords": 200,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": "-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,-127,0",
+                    "ColumnReadOrder": "vyDA,BJNA,wsiA,aNCB,NmkB,zXsB,gwGC,dlKC,QAgC,QzjC,jJkC,eTwC,pBKD,nKiD,MUiD,IRpD,jBsD,sFHE,uzQE,OHaE,OHdE,GAeE,wHnE,EuNF,nZSF,oosF,sOWG,mLkG,zACH,VjIH,YyRH,ODBI,kIJI,mELI,FuTI,ITWI,hOYI,QzdI,gBsI,eCuI,odLJ,ISMJ,NnSJ,SEgJ,FUvJ,EUNK,gsVK,DabK,uCdK,qlnK,bhpK,EGqK,rmrK,JSGL,WbTL,elWL,eJgL,DagL,jxMM,VeTM,VcBN,OVNN,MBON,yuaN,HHlN,vRvN,rhxN,utCO,DlIO,zPOO,FpxO,yeEP,AqnP,nHCQ,LtOQ,ijTQ,WgpQ,fmyQ,oIHR,LZJS,DyKS,uFcS,lJsS,SeET,pnJT,udWT,TUbT,dZsT,YxuT,eJvT,vsMU,FvPU,etQU,HFaU,AAeU,VmqU,ETxU,AFHV,IxcV,yClV,oasV,yDKW,TlqW,SxyW,LQsX,TDvX,oVwX,HeBY,LOxY,XMzY,tzHZ,NHpZ,bAvZ,Ndaa,kwda,Uhna,Sgva,gVHb,GChb,sVnb,gApb,Wevb,Hywb,UAQc,aBDd,GdTd,qNld,oCrd,MWud,mOwd,DbHe,CQRe,BvSe,sEae,WDse,mZze,bvDf,HEPf,RiTf,JEdf,QWlf,NCpf,hNOg,nYVg,wTag,qEgg,gCDh,hRJh,rcWh,RwWh,KEQi,pasi,Byzi,LNAj,VLPj,DYbj,xcnj,xHwj,XxGk,rZJk,hsOk,USWk,mBsk,eDzk,AlDl,BEEl,rjFl,gXil,qKml,Mjpl,puFm,EHLm,owMm,GMTm,NVWm,diom,xCpm,mfzm,TfBn,gUHn,WfYn,MZgn,OFin,lCIo,ttTo,wgho,gYoo,sPso,Uvvo,NSyo,ikKp,gyhp,NAyp,WLDq,lpDq,jgAr,DANs,Iuns,jOts,kbEt,UBSt,UQnt,Rmnt,uvzt,QECu,KQKu,ToQu,fsTu,BAYu,DAbu,LvJv,lUTv,EDav,Dlgv,qyzv,jGMw,wBbw,UPgw,pjHx,wfSx,sggx,lTnx,mkEy,jePy,gzPy,svhy,KFAz,ISAz,flJz,jqNz,twOz,SrRz,DXcz"
+                },
+                {
+                    "Name": "competition",
+                    "ShortName": "FMpz",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 68,
+                    "TotalRecords": 500,
+                    "WrittenRecords": 200,
+                    "DefaultRecord": "0,-1,0,0,0,0,-1,0,0,-1,-1,-1,-1,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0",
+                    "ColumnReadOrder": "YXKB,bbRB,yyuB,wdPC,ktYC,mJJD,XPMD,yTFE,HzNE,QMAF,mobF,TveF,LxhF,VsCG,rtPH,nYJI,JfMJ,UjYK,mEvK,VtHL,ndOL,dVuL,uhiM,rtiM,pqzM,LhXN,oVAO,sseO,CILP,RDrP,VYuP,trCQ,WpQQ,NOYS,fSrS,eLCT,wWiT,LptT,KnRV,QATV,KUrV,ohEW,sBHW,FtgW,vgTY,ihFa,JFLa,OjRb,wUkb,eWCc,JVFc,ccXc,Tfsc,oUMd,UBVd,jXld,FGrd,SDHe,zYde,Crne,RFDf,eaJf,wCvf,oISg,OVvg,lMgi,boxi,xNEj,XDPj,NlGk,Wwfk,KPAn,OLCn,whZn,qnKo,sGFp,eULp,iYhp,Edjp,PVFq,foOq,AfBr,kyyr,pxes,ffts,WkTt,wttu,lWCv,cAOv,Yxav,lbCw,KvHw,BcJx,QgOx,HEBy,QLFy,MwHy,Daqz"
+                },
+                {
+                    "Name": "competitionsponsorlinks",
+                    "ShortName": "AqBt",
+                    "SaveGroups": "squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 3000,
+                    "WrittenRecords": 684,
+                    "DefaultRecord": "-1,0,0,0,0",
+                    "ColumnReadOrder": "LhXN,JMld,Laxd,McUr,zlDt"
+                },
+                {
+                    "Name": "tattoo",
+                    "ShortName": "yeQw",
+                    "SaveGroups": "squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 489,
+                    "WrittenRecords": 389,
+                    "DefaultRecord": "0,0,0,0,0,0,0,0,0,0",
+                    "ColumnReadOrder": "HEDC,HfYD,LwOR,BhwR,CVWU,YjNY,UUDg,OnPm,zNFu,JRjz"
+                },
+                {
+                    "Name": "teamsponsorlinks",
+                    "ShortName": "nrFl",
+                    "SaveGroups": "squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 2000,
+                    "WrittenRecords": 959,
+                    "DefaultRecord": "0,0,-2,0,0",
+                    "ColumnReadOrder": "JMld,Laxd,mCXg,McUr,zlDt"
+                },
+                {
+                    "Name": "playerpronouns",
+                    "ShortName": "nhXl",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 24,
+                    "TotalRecords": 100,
+                    "WrittenRecords": 2,
+                    "DefaultRecord": ",0,0",
+                    "ColumnReadOrder": "ETtk,ykFq,Ekgs"
+                },
+                {
+                    "Name": "stories",
+                    "ShortName": "kgGh",
+                    "SaveGroups": "squads",
+                    "RecordSize": 16,
+                    "TotalRecords": 8500,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": "0,0,0,10,-1,0,0",
+                    "ColumnReadOrder": "oazN,naWP,BhXS,XbPb,LBdc,tJsc,nsfy"
+                },
+                {
+                    "Name": "competitionseeds",
+                    "ShortName": "fMpR",
+                    "SaveGroups": "squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 250,
+                    "WrittenRecords": 190,
+                    "DefaultRecord": "0,0,1,1,1",
+                    "ColumnReadOrder": "LhXN,ntxZ,OAja,mCXg,Kilj"
+                },
+                {
+                    "Name": "sponsors",
+                    "ShortName": "fGwQ",
+                    "SaveGroups": "squads",
+                    "RecordSize": 44,
+                    "TotalRecords": 1500,
+                    "WrittenRecords": 358,
+                    "DefaultRecord": ",,0,0,0,0",
+                    "ColumnReadOrder": "FEJQ,LUfT,mtOV,Laxd,vIys,eZzy"
+                },
+                {
+                    "Name": "modeadboardlinks",
+                    "ShortName": "YBgI",
+                    "SaveGroups": "squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 1002,
+                    "WrittenRecords": 2,
+                    "DefaultRecord": "0,0,0,-1,0",
+                    "ColumnReadOrder": "JMld,Laxd,McUr,NuNs,zlDt"
+                },
+                {
+                    "Name": "wardrobeexclusions",
+                    "ShortName": "WFUF",
+                    "SaveGroups": "squads",
+                    "RecordSize": 12,
+                    "TotalRecords": 604,
+                    "WrittenRecords": 304,
+                    "DefaultRecord": "0,0,0,0,0",
+                    "ColumnReadOrder": "RdTL,GyNR,ydkU,daCW,lCau"
+                },
+                {
+                    "Name": "teamformationteamstylelinks",
+                    "ShortName": "TKgq",
+                    "SaveGroups": "cmsquads,squads,onlsquads",
+                    "RecordSize": 8,
+                    "TotalRecords": 700,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": "0,-2,0,0",
+                    "ColumnReadOrder": "KjhG,mCXg,oHkj,vzHn"
+                },
+                {
+                    "Name": "competitionballs",
+                    "ShortName": "SWFH",
+                    "SaveGroups": "squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 500,
+                    "WrittenRecords": 331,
+                    "DefaultRecord": "0,0,0,0",
+                    "ColumnReadOrder": "LhXN,JkkO,EPIk,pxes"
+                },
+                {
+                    "Name": "vanitystoreitemlink",
+                    "ShortName": "SizI",
+                    "SaveGroups": "squads",
+                    "RecordSize": 12,
+                    "TotalRecords": 3390,
+                    "WrittenRecords": 2390,
+                    "DefaultRecord": "0,0,0,0",
+                    "ColumnReadOrder": "jmFE,TsLM,mlkc,nBFz"
+                },
+                {
+                    "Name": "presentationmodesettings",
+                    "ShortName": "PViY",
+                    "SaveGroups": "squads",
+                    "RecordSize": 68,
+                    "TotalRecords": 1000,
+                    "WrittenRecords": 46,
+                    "DefaultRecord": ",0,0,0,0,-1",
+                    "ColumnReadOrder": "xGwA,AuVh,THOk,CxKn,XuPr,NuNs"
+                },
+                {
+                    "Name": "teamformdiff",
+                    "ShortName": "OIcD",
+                    "SaveGroups": "squads",
+                    "RecordSize": 12,
+                    "TotalRecords": 50,
+                    "WrittenRecords": 50,
+                    "DefaultRecord": null,
+                    "ColumnReadOrder": "kePB,xKVG,BssH,HjSL,ArvO,YxAQ,WjAg,mCXg,Kjlq,jjwz"
+                },
+                {
+                    "Name": "kitrewardsmapping",
+                    "ShortName": "Odrk",
+                    "SaveGroups": "squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 100,
+                    "WrittenRecords": 17,
+                    "DefaultRecord": "0,1",
+                    "ColumnReadOrder": "DPYU,mCXg"
+                },
+                {
+                    "Name": "rivals",
+                    "ShortName": "LbKk",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 1800,
+                    "WrittenRecords": 1243,
+                    "DefaultRecord": "0,1,1",
+                    "ColumnReadOrder": "ytXF,afAW,fmFo"
+                },
+                {
+                    "Name": "footwear",
+                    "ShortName": "IePu",
+                    "SaveGroups": "squads",
+                    "RecordSize": 4,
+                    "TotalRecords": 1054,
+                    "WrittenRecords": 904,
+                    "DefaultRecord": "0,0",
+                    "ColumnReadOrder": "hzFG,yPLv"
+                },
+                {
+                    "Name": "version",
+                    "ShortName": "DbIl",
+                    "SaveGroups": "squads",
+                    "RecordSize": 48,
+                    "TotalRecords": 1,
+                    "WrittenRecords": 1,
+                    "DefaultRecord": null,
+                    "ColumnReadOrder": "RxIJ,ZwCP,YVuV,JMld,moSi,PyNp"
+                },
+                {
+                    "Name": "brandpartnerassets",
+                    "ShortName": "xuka",
+                    "SaveGroups": "squads",
+                    "RecordSize": 132,
+                    "TotalRecords": 1016,
+                    "WrittenRecords": 28,
+                    "DefaultRecord": ",,,,,0,-1,0",
+                    "ColumnReadOrder": "yeEP,KAUP,CkjP,ulRR,roOU,sAhV,HMyc,gbDt"
+                },
+                {
+                    "Name": "leaguerefereelinks",
+                    "ShortName": "tfLS",
+                    "SaveGroups": "squads",
+                    "RecordSize": 4,
+                    "TotalRecords": 700,
+                    "WrittenRecords": 517,
+                    "DefaultRecord": "1,1",
+                    "ColumnReadOrder": "aQrQ,Lfmt"
+                },
+                {
+                    "Name": "previousteam",
+                    "ShortName": "rIsB",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 8,
+                    "TotalRecords": 26000,
+                    "WrittenRecords": 234,
+                    "DefaultRecord": "1,0",
+                    "ColumnReadOrder": "wDHM,ykFq"
+                },
+                {
+                    "Name": "stadiumassignments",
+                    "ShortName": "esAj",
+                    "SaveGroups": "cmsquads,squads",
+                    "RecordSize": 56,
+                    "TotalRecords": 600,
+                    "WrittenRecords": 0,
+                    "DefaultRecord": ",0",
+                    "ColumnReadOrder": "RiGc,mCXg"
+                }
+            ],
+            "Changelogs": {
+                "Path": "result/pc64/Squads/786/fifa_ng_db_1.db_Changelogs",
+                "Files": [
+                    {
+                        "Type": "Tables",
+                        "FileName": "TablesChangelog.xlsx",
+                        "Counts": {
+                            "Added": 1,
+                            "Removed": 0,
+                            "Modified": 48
+                        }
+                    },
+                    {
+                        "Type": "Players",
+                        "FileName": "PlayersChangelog.xlsx",
+                        "Counts": {
+                            "Added": 2459,
+                            "Removed": 1890,
+                            "Modified": 17994,
+                            "RatingChanges": 15854,
+                            "HeadModels_Added": 239,
+                            "HeadModels_Removed": 111,
+                            "CraniumFacesUpdates": 19,
+                            "Transfers_Free": 10,
+                            "Transfers_Permanent": 978,
+                            "Transfers_Loan": 586,
+                            "NationalTeams_CalledUp": 113
+                        }
+                    },
+                    {
+                        "Type": "Managers",
+                        "FileName": "ManagersChangelog.xlsx",
+                        "Counts": {
+                            "Added": 36,
+                            "Removed": 21,
+                            "Modified": 416,
+                            "ManagerTracker_Appointed": 36,
+                            "ManagerTracker_ReAppointed": 2,
+                            "ManagerTracker_Departed": 21,
+                            "HeadModels_Added": 4,
+                            "HeadModels_Removed": 5,
+                            "GenericHeadModels_Added": 2,
+                            "GenericHeadModels_Removed": 0
+                        }
+                    },
+                    {
+                        "Type": "Kits",
+                        "FileName": "KitsChangelog.xlsx",
+                        "Counts": {
+                            "Added": 195,
+                            "Removed": 195,
+                            "Modified": 2395
+                        }
+                    },
+                    {
+                        "Type": "Teams",
+                        "FileName": "TeamsChangelog.xlsx",
+                        "Counts": {
+                            "Added": 28,
+                            "Removed": 1,
+                            "Modified": 771
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
