@@ -2,11 +2,11 @@
 <squad>
   <squadInfoSet>
     <squadInfo platform="nx2">
-      <dbMajor>414</dbMajor>
+      <dbMajor>415</dbMajor>
       <dbMinor>1</dbMinor>
-      <dbMajorCRC>-601117787</dbMajorCRC>
+      <dbMajorCRC>1863941516</dbMajorCRC>
       <dbMinorCRC>1938277486</dbMinorCRC>
-      <dbMajorLoc>fc/fclive/genxtitle/roster/nx2/squads_20250919_414_1_n601117787.bin</dbMajorLoc>
+      <dbMajorLoc>fc/fclive/genxtitle/roster/nx2/squads_20251001_415_1_1863941516.bin</dbMajorLoc>
       <dbMinorLoc>fc/fclive/genxtitle/roster/nx2/fixtures_20211110_1_1_1794008637.bin</dbMinorLoc>
       <dbSchemaCRC>15eb55a5cc47f3e9732b6b58d81a5e9c6c91f332</dbSchemaCRC>
       <dbFUTVer>19</dbFUTVer>
@@ -24,11 +24,11 @@
       </assetSet>
     </squadInfo>
     <squadInfo platform="nx">
-      <dbMajor>412</dbMajor>
+      <dbMajor>413</dbMajor>
       <dbMinor>1</dbMinor>
-      <dbMajorCRC>1753857821</dbMajorCRC>
+      <dbMajorCRC>-993297449</dbMajorCRC>
       <dbMinorCRC>1938277486</dbMinorCRC>
-      <dbMajorLoc>fc/fclive/genxtitle/roster/nx/squads_20250917_412_1_1753857821.bin</dbMajorLoc>
+      <dbMajorLoc>fc/fclive/genxtitle/roster/nx/squads_20251001_413_1_n993297449.bin</dbMajorLoc>
       <dbMinorLoc>fc/fclive/genxtitle/roster/nx/fixtures_20211110_1_1_1794008637.bin</dbMinorLoc>
       <dbSchemaCRC>15eb55a5cc47f3e9732b6b58d81a5e9c6c91f332</dbSchemaCRC>
       <dbFUTVer>17</dbFUTVer>
@@ -46,11 +46,11 @@
       </assetSet>
     </squadInfo>
     <squadInfo platform="xone">
-      <dbMajor>428</dbMajor>
+      <dbMajor>429</dbMajor>
       <dbMinor>1</dbMinor>
-      <dbMajorCRC>1753857821</dbMajorCRC>
+      <dbMajorCRC>-993297449</dbMajorCRC>
       <dbMinorCRC>1794008637</dbMinorCRC>
-      <dbMajorLoc>fc/fclive/genxtitle/roster/xone/squads_20250916_428_1_1753857821.bin</dbMajorLoc>
+      <dbMajorLoc>fc/fclive/genxtitle/roster/xone/squads_20251001_429_1_n993297449.bin</dbMajorLoc>
       <dbMinorLoc>fc/fclive/genxtitle/roster/xone/fixtures_20211110_1_1_1794008637.bin</dbMinorLoc>
       <dbSchemaCRC>15eb55a5cc47f3e9732b6b58d81a5e9c6c91f332</dbSchemaCRC>
       <dbFUTVer>17</dbFUTVer>
@@ -68,11 +68,11 @@
       </assetSet>
     </squadInfo>
     <squadInfo platform="xbsx">
-      <dbMajor>533</dbMajor>
+      <dbMajor>534</dbMajor>
       <dbMinor>1</dbMinor>
-      <dbMajorCRC>-601117787</dbMajorCRC>
+      <dbMajorCRC>1863941516</dbMajorCRC>
       <dbMinorCRC>327563856</dbMinorCRC>
-      <dbMajorLoc>fc/fclive/genxtitle/roster/xbsx/squads_20250919_533_1_n601117787.bin</dbMajorLoc>
+      <dbMajorLoc>fc/fclive/genxtitle/roster/xbsx/squads_20251001_534_1_1863941516.bin</dbMajorLoc>
       <dbMinorLoc>fc/fclive/genxtitle/roster/xbsx/fixtures_20211109_1_1_327563856.bin</dbMinorLoc>
       <dbSchemaCRC>15eb55a5cc47f3e9732b6b58d81a5e9c6c91f332</dbSchemaCRC>
       <dbFUTVer>18</dbFUTVer>
@@ -90,11 +90,11 @@
       </assetSet>
     </squadInfo>
     <squadInfo platform="ps4">
-      <dbMajor>428</dbMajor>
+      <dbMajor>429</dbMajor>
       <dbMinor>1</dbMinor>
-      <dbMajorCRC>1753857821</dbMajorCRC>
+      <dbMajorCRC>-993297449</dbMajorCRC>
       <dbMinorCRC>1794008637</dbMinorCRC>
-      <dbMajorLoc>fc/fclive/genxtitle/roster/ps4/squads_20250916_428_1_1753857821.bin</dbMajorLoc>
+      <dbMajorLoc>fc/fclive/genxtitle/roster/ps4/squads_20251001_429_1_n993297449.bin</dbMajorLoc>
       <dbMinorLoc>fc/fclive/genxtitle/roster/ps4/fixtures_20211110_1_1_1794008637.bin</dbMinorLoc>
       <dbSchemaCRC>15eb55a5cc47f3e9732b6b58d81a5e9c6c91f332</dbSchemaCRC>
       <dbFUTVer>17</dbFUTVer>
@@ -112,11 +112,11 @@
       </assetSet>
     </squadInfo>
     <squadInfo platform="ps5">
-      <dbMajor>533</dbMajor>
+      <dbMajor>534</dbMajor>
       <dbMinor>1</dbMinor>
-      <dbMajorCRC>-601117787</dbMajorCRC>
+      <dbMajorCRC>1863941516</dbMajorCRC>
       <dbMinorCRC>327563856</dbMinorCRC>
-      <dbMajorLoc>fc/fclive/genxtitle/roster/ps5/squads_20250919_533_1_n601117787.bin</dbMajorLoc>
+      <dbMajorLoc>fc/fclive/genxtitle/roster/ps5/squads_20251001_534_1_1863941516.bin</dbMajorLoc>
       <dbMinorLoc>fc/fclive/genxtitle/roster/ps5/fixtures_20211109_1_1_327563856.bin</dbMinorLoc>
       <dbSchemaCRC>15eb55a5cc47f3e9732b6b58d81a5e9c6c91f332</dbSchemaCRC>
       <dbFUTVer>18</dbFUTVer>
@@ -134,11 +134,11 @@
       </assetSet>
     </squadInfo>
     <squadInfo platform="pc64">
-      <dbMajor>788</dbMajor>
+      <dbMajor>789</dbMajor>
       <dbMinor>1</dbMinor>
-      <dbMajorCRC>-601117787</dbMajorCRC>
+      <dbMajorCRC>1863941516</dbMajorCRC>
       <dbMinorCRC>1794008637</dbMinorCRC>
-      <dbMajorLoc>fc/fclive/genxtitle/roster/pc64/squads_20250919_788_1_n601117787.bin</dbMajorLoc>
+      <dbMajorLoc>fc/fclive/genxtitle/roster/pc64/squads_20251001_789_1_1863941516.bin</dbMajorLoc>
       <dbMinorLoc>fc/fclive/genxtitle/roster/pc64/fixtures_20211110_1_1_1794008637.bin</dbMinorLoc>
       <dbSchemaCRC>15eb55a5cc47f3e9732b6b58d81a5e9c6c91f332</dbSchemaCRC>
       <dbFUTVer>18</dbFUTVer>
