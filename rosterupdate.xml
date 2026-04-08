@@ -2,7 +2,7 @@
 <squad>
   <squadInfoSet>
     <squadInfo platform="nx2">
-      <dbMajor>453</dbMajor>
+      <dbMajor>455</dbMajor>
       <dbMinor>1</dbMinor>
       <dbMajorCRC>-226026729</dbMajorCRC>
       <dbMinorCRC>1938277486</dbMinorCRC>
@@ -24,7 +24,7 @@
       </assetSet>
     </squadInfo>
     <squadInfo platform="nx">
-      <dbMajor>453</dbMajor>
+      <dbMajor>455</dbMajor>
       <dbMinor>1</dbMinor>
       <dbMajorCRC>545366615</dbMajorCRC>
       <dbMinorCRC>1938277486</dbMinorCRC>
@@ -46,7 +46,7 @@
       </assetSet>
     </squadInfo>
     <squadInfo platform="xone">
-      <dbMajor>477</dbMajor>
+      <dbMajor>479</dbMajor>
       <dbMinor>1</dbMinor>
       <dbMajorCRC>545366615</dbMajorCRC>
       <dbMinorCRC>1794008637</dbMinorCRC>
@@ -68,7 +68,7 @@
       </assetSet>
     </squadInfo>
     <squadInfo platform="xbsx">
-      <dbMajor>578</dbMajor>
+      <dbMajor>580</dbMajor>
       <dbMinor>1</dbMinor>
       <dbMajorCRC>-226026729</dbMajorCRC>
       <dbMinorCRC>327563856</dbMinorCRC>
@@ -90,7 +90,7 @@
       </assetSet>
     </squadInfo>
     <squadInfo platform="ps4">
-      <dbMajor>477</dbMajor>
+      <dbMajor>479</dbMajor>
       <dbMinor>1</dbMinor>
       <dbMajorCRC>545366615</dbMajorCRC>
       <dbMinorCRC>1794008637</dbMinorCRC>
@@ -112,7 +112,7 @@
       </assetSet>
     </squadInfo>
     <squadInfo platform="ps5">
-      <dbMajor>578</dbMajor>
+      <dbMajor>580</dbMajor>
       <dbMinor>1</dbMinor>
       <dbMajorCRC>-226026729</dbMajorCRC>
       <dbMinorCRC>327563856</dbMinorCRC>
@@ -134,7 +134,7 @@
       </assetSet>
     </squadInfo>
     <squadInfo platform="pc64">
-      <dbMajor>833</dbMajor>
+      <dbMajor>835</dbMajor>
       <dbMinor>1</dbMinor>
       <dbMajorCRC>-226026729</dbMajorCRC>
       <dbMinorCRC>1794008637</dbMinorCRC>
